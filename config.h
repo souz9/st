@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Pragmata Pro:size=13";
-static int font_bold = 0;
+static char *font = "term:size=14";
+static int font_bold = 1;
 static int borderpx = 2;
 
 /*
